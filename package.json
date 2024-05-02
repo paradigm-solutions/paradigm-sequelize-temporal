@@ -1,7 +1,7 @@
 {
-  "name": "sequelize-temporal",
-  "version": "2.0.0",
-  "description": "Temporal tables for Sequelize",
+  "name": "@paradigm-solutions/sequelize-temporal",
+  "version": "1.0.0",
+  "description": "Temporal tables for Sequelize - Paradigm Version",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bonaval/sequelize-temporal.git"
+    "url": "git+https://github.com/paradigm-solutions/paradigm-sequelize-temporal.git"
   },
   "keywords": [
     "sequelize",
@@ -22,18 +22,6 @@
     "paranoid",
     "historical"
   ],
-  "author": "greenify <greenify@notsharingmy.info> (https://github.com/greenify)",
-  "contributors": [
-    {
-      "name": "David DOLCIMASCOLO",
-      "url": "https://github.com/ddolcimascolo"
-    }
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bonaval/sequelize-temporal/issues"
-  },
-  "homepage": "https://github.com/bonaval/sequelize-temporal#readme",
   "engines": {
     "node": ">= 18"
   },
